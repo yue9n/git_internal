@@ -8,3 +8,4 @@ Mykyta          Aleksandrov
 Valeriia        Vorobiova
 Eugene          Kamenev
 Ihor            Tykhonov
+Nazarii		Holova
